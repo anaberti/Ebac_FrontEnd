@@ -46,6 +46,6 @@ form button:hover {
     background-color: #314e9e;    
 }
 
-input:focus, {
+input:focus {
     outline-color: #182C61;
 }
